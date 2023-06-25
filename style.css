@@ -1,0 +1,62 @@
+body{
+background-color: whitesmoke;
+font-family: serif;
+}
+nav{
+margin: 10px;
+border: 1px solid lime;
+border-radius: 10px;
+text-align: center;
+padding: 10px;
+}
+.ben{
+background-color: lime;
+color: white;
+padding: 5px;
+border-radius: 10px;
+text-decoration: none;
+margin-right: 25px;
+width: 100px;
+display: inline-block;
+}
+    header{
+text-align: center;
+color: limegreen;
+}
+h1{
+color: palegreen;
+}
+main{
+color: limegreen;
+}
+
+.h{
+text-align: center;
+font-size: 30px;
+color: gold;
+}
+.h1{
+text-align: center;
+font-size: 30px;
+color:rgb(212, 212, 86) ;
+}
+.h2{
+text-align: center;
+font-size: 30px;
+color: rgb(159, 209, 22);
+}
+.p{
+text-align: center;
+font-size: 21px;
+color: gold;
+}
+.p1{
+text-align: center;
+font-size: 21px;
+color: rgb(212, 212, 86) ;
+}
+.p2{
+text-align: center;
+font-size: 21px;
+color: rgb(159, 209, 22); 
+}
